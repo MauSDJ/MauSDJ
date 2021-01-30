@@ -1,12 +1,14 @@
-# my name is Maurício
+# Maurício d'Ávila
+
 ## I am Full Stack Developer and Software Development Student
 
 Brazilian guy who has a passion for code (obviously), music, nature and coffee. New in the programming world and loving it! Trying to learn as much as possible.
 
 ## Skills and Experience
-* :react:
-
-REACT / JS / HTML / CSS / NODE.JS / DJANGO / PYTHON
+* :atomic: React
+* :computer: HTML / CSS / JS
+* :accept: Node.js
+* :snake: Django / Python
 
 - 🔭 I’m currently working on a company system software.
 - 🌱 I’m currently learning Node.js, Django and Python.
