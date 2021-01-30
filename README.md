@@ -5,7 +5,7 @@
 Brazilian guy who has a passion for code (obviously), music, nature and coffee. New in the programming world and loving it! Trying to learn as much as possible.
 
 ## Skills and Experience
-* :atomic: React
+* :electron: React
 * :computer: HTML / CSS / JS
 * :accept: Node.js
 * :snake: Django / Python
