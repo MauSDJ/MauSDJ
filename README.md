@@ -13,7 +13,7 @@ Brazilian guy who has a passion for code (obviously), music, nature and coffee. 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-- 🔭 I’m currently working on a company`s system software.
+- 🔭 I’m currently working on a company's system software.
 - 🌱 I’m currently learning Node.js, Django and Python.
 - 🤔 I’m looking for help with anything that can make me grow.
 - 💬 Ask me about anything.
