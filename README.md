@@ -13,7 +13,7 @@ Brazilian guy who has a passion for code (obviously), music, nature and coffee. 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-- 🔭 I’m currently working on a company system software.
+- 🔭 I’m currently working on a company`s system software.
 - 🌱 I’m currently learning Node.js, Django and Python.
 - 🤔 I’m looking for help with anything that can make me grow.
 - 💬 Ask me about anything.
@@ -21,6 +21,6 @@ Brazilian guy who has a passion for code (obviously), music, nature and coffee. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MauSDJ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maurício-dávila/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mauricio.davila.35)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mau_sdj/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauSDJ&layout=compact&theme=dracula)](https://github.com/MauSDJ/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauSDJ&layout=compact&theme=react)](https://github.com/MauSDJ/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MauSDJ&theme=dracula&show_icons=true)](https://github.com/MauSDJ/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MauSDJ&theme=react&show_icons=true)](https://github.com/MauSDJ/github-readme-stats)
