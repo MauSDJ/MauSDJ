@@ -15,7 +15,6 @@ Brazilian guy who has a passion for code (obviously), music, nature and coffee. 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 - 🔭 I’m currently working on a company's system software.
-- 🌱 I’m currently learning Node.js, Django and Python.
 - 🤔 I’m looking for help with anything that can make me grow.
 - 💬 Ask me about anything.
 
